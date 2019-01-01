@@ -10,11 +10,12 @@ try my best to finish **Cracking The Coding Interview** first. However, I do
 apologize if anyone is trying to find a particular solution that I have not
 attempted/finished. Thanks for everyones support and patience!
 
-Last Updated: December 21st, 2018
+Last Updated: December 31st, 2018
 
 ### **Purpose:**
 - The purpose of this folder is to store problems and MY solutions to  
 the following book problems for programming interviews
+- This is also a personal project of mine to get better at programming
 - You're more than welcome to check out my solutions to what I have!
 - Good luck to everyone out there with programming practices/interviews
 
