@@ -2,7 +2,7 @@
 Author: Derek Ly
 Question: Route Between Nodes (Pg. 109)
 ---------------------------------------------------------------------
-Given a directed graph, design ana lgorithm to find out whether there
+Given a directed graph, design an algorithm to find out whether there
 is a route between two nodes.
 ---------------------------------------------------------------------
 '''
