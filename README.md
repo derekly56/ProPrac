@@ -3,6 +3,13 @@
 ### **Author:**
 - Derek L.
 
+### **Disclaimer**
+If you are going through the github, I have not completed both books, as this
+will take time for me to finish coding each problem and attempt at them. I will
+try my best to finish **Cracking The Coding Interview** first. However, I do
+apologize if anyone is trying to find a particular solution that I have not
+attempted/finished. Thanks for everyones support!
+
 ### **Purpose:**
 - The purpose of this folder is to store problems and MY solutions to  
 the following book problems for programming interviews
