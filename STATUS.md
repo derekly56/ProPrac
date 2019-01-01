@@ -14,6 +14,7 @@
 
 - **Chapter 4 -- Trees and Graphs**
   - Minimal Tree
+  - List of Depths
 
 #### **Concepts and Algorithms**
 - **Chapter 5 -- Bit Manipulation**
@@ -53,7 +54,6 @@
 
 - **Chapter 4 -- Trees and Graphs**
   - Route Between Nodes
-  - List of Depths
   - Check Balanced
   - Successor
   - Build Order
