@@ -35,6 +35,19 @@ class Graph:
     def edges(self):
         return self.findAllEdges()
 
+'''
+Function routeBetweenNodes
+--------------------------
+
+This function will use recursion to solve the path problem. Given a graph,
+starting node and ending node, the function will iterate through the keys
+in graph and check for every key that might have a connection to the final
+node.
+
+This method uses DFS to traverse through all of the vertices connected to
+the first vertice. Another method would be to use BFS.
+'''
+
 def routeBetweenNodes(graph, nodeA, nodeB, path = None):
 
     if path == None:
@@ -44,15 +57,18 @@ def routeBetweenNodes(graph, nodeA, nodeB, path = None):
 
     path = path + [nodeA]
 
+    # Check if we're on that node already
     if nodeA == nodeB:
         return path
 
     if nodeA not in g:
         return None
 
+    # Traverse through every vertice in graph
+    # and check for connected paths
     for vertice in g[nodeA]:
         if vertice not in path:
-            conPath = routeBetweenNodes(graph, vertice, nodeB)
+            conPath = routeBetweenNodes(graph, vertice, nodeB, path)
 
             if conPath:
                 return conPath
@@ -73,6 +89,11 @@ testGraph = { "a" : ["b", "c"],
               "f" : []
 }
 
+'''
+This test case should print out:
+
+a -> b -> d -> f
+'''
 graph = Graph(testGraph)
 path = routeBetweenNodes(graph.graph, "a", "f")
 print(path)
