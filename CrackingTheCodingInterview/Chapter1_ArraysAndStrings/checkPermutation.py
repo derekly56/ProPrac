@@ -23,7 +23,7 @@ Run-Time Complexity: O(n)
 
 This function will utilize uppercase and lowercase as their own unique characters.
 However, one could simply force the two strings to be inputted as lowercase,
-and then the function would still work the same. 
+and then the function would still work the same.
 '''
 
 def checkPermutation(s1, s2):
