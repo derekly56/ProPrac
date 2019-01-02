@@ -13,8 +13,11 @@
 - **Chapter 3 -- Stacks and Queues**
 
 - **Chapter 4 -- Trees and Graphs**
+  - Route Between Nodes
   - Minimal Tree
   - List of Depths
+  - Check Balanced
+  - Validate BST
 
 #### **Concepts and Algorithms**
 - **Chapter 5 -- Bit Manipulation**
@@ -53,8 +56,6 @@
 - **Chapter 3 -- Stacks and Queues**
 
 - **Chapter 4 -- Trees and Graphs**
-  - Route Between Nodes
-  - Check Balanced
   - Successor
   - Build Order
   - First Common Ancestor
