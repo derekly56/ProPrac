@@ -5,6 +5,10 @@
 #### **Data Structures**
 - **Chapter 1 -- Arrays and Strings**
   - Is Unique
+  - Check Permutation
+  - URLify
+  - Palindrome Permutation
+  - One Away
 
 - **Chapter 2 -- Linked Lists**
   - Remove Dups
@@ -36,10 +40,6 @@
 
 #### **Data Structures**
 - **Chapter 1 -- Arrays and Strings**
-  - Check Permutation
-  - URLify
-  - Palindrome Permutation
-  - One Away
   - String Compression
   - Rotate Matrix
   - Zero Matrix
