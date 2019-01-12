@@ -39,6 +39,16 @@ class LinkedList:
             temp.data = data
             t.next = temp
 
+'''
+Function kthToLast
+------------------
+
+This function will be given a head node and the kth element to return. The solution
+here would be to find the length of the linkedlist and subtract (k + 1) away from
+the length to get the correct jumps.
+
+Run-Time Complexity: O(n)
+'''
 def kthToLast(head, k):
     if not head:
         return
