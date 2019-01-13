@@ -24,6 +24,7 @@
   - List of Depths
   - Check Balanced
   - Validate BST
+  - First Common Ancestor
 
 - **Chapter 8 -- Recursion and Dynamic Programming**
   - Triple Steps
@@ -61,7 +62,6 @@
 - **Chapter 4 -- Trees and Graphs**
   - Successor
   - Build Order
-  - First Common Ancestor
   - BST Sequence
   - Check Subtree
   - Random Node
