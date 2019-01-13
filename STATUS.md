@@ -12,6 +12,8 @@
 
 - **Chapter 2 -- Linked Lists**
   - Remove Dups
+  - Return kth to Last
+  - Delete Middle Node
   - Sum List
 
 - **Chapter 3 -- Stacks and Queues**
@@ -22,6 +24,9 @@
   - List of Depths
   - Check Balanced
   - Validate BST
+
+- **Chapter 8 -- Recursion and Dynamic Programming**
+  - Triple Steps
 
 #### **Concepts and Algorithms**
 - **Chapter 5 -- Bit Manipulation**
@@ -46,8 +51,6 @@
   - String Rotation
 
 - **Chapter 2 -- Linked Lists**
-  - Return kth to Last
-  - Delete Middle Node
   - Partition
   - Palindrome
   - Intersection
