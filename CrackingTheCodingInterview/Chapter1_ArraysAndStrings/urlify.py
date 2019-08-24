@@ -27,6 +27,7 @@ insert while traversing forward from the initial string, we would have to
 constantly shift down 2 more spaces for the %20 to fit.
 
 Run-Time Complexity: O(n)
+Space Complexity: O(n)
 '''
 
 def urlify(s1):

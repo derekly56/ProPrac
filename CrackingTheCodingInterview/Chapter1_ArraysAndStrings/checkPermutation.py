@@ -19,11 +19,12 @@ values from s1 in in the dictionary. At the very end, iterate through the
 dictionary for values. If the two strings are permutations of one another, then
 every value in the dictionary will be 0, if they are different, then return False
 
-Run-Time Complexity: O(n)
-
 This function will utilize uppercase and lowercase as their own unique characters.
 However, one could simply force the two strings to be inputted as lowercase,
 and then the function would still work the same.
+
+Run-Time Complexity: O(n)
+Space Complexity: O(n)
 '''
 
 def checkPermutation(s1, s2):

@@ -30,6 +30,7 @@ values in the dictionary total 1 or less, then we know that the two strings are
 indeed 1 edit away from each other. Otherwise, they are NOT.
 
 Run-Time Complexity: O(n)
+Space Complexity: O(n)
 '''
 
 def oneAway(s1, s2):

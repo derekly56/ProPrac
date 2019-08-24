@@ -10,7 +10,6 @@ characters. What if you cannot use additional data structures?
 '''
 Function isUnique
 -----------------
-Run-Time Complexity: O(n)
 
 This function will take in a string and iterate through every character
 in that string. We will also make a dictionary to store characters that
@@ -26,6 +25,9 @@ Finally, we can use a brute force method where we iterate through the entire
 string checking for repeats of each character. This would run in O(n^2).
 
 As always, check with the interviewer what your restrictions are.
+
+Run-Time Complexity: O(n)
+Space Complexity: O(n)
 '''
 
 def isUnique(s):

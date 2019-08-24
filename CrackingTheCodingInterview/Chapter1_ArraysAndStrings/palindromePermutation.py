@@ -29,6 +29,7 @@ can iterate through the dictionary, depending on the length of the string,
 implement an algorithm to find either all pairs or 1 odd frequency.
 
 Run-Time Complexity: O(n)
+Space Complexity: O(n)
 
 Example
 -------
