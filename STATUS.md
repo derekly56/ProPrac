@@ -9,6 +9,7 @@
   - URLify (pg. 90)
   - Palindrome Permutation (pg. 91)
   - One Away (pg. 91)
+  - String Compression (pg. 91)
 
 - **Chapter 2 -- Linked Lists**
   - Remove Dups (pg. 94)
@@ -46,7 +47,6 @@
 
 #### **Data Structures**
 - **Chapter 1 -- Arrays and Strings**
-  - String Compression (pg. 91)
   - Rotate Matrix (pg. 91)
   - Zero Matrix (pg. 91)
   - String Rotation (pg. 91)
